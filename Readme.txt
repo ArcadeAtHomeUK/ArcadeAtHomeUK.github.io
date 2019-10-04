@@ -1,6 +1,7 @@
 # Welcome to Arcade At Home UK
 
 To add the scanlines to carousel and menu:
+Choose .png matching your raspberry pi output resolution
 Rename .png with scanlines you like to scanlines.png.
 Place scanlines.png image in jour theme _art folder
 Modify theme.xml in theme folder (some themes use additional file, for example comic_book.xml):
